@@ -7,11 +7,11 @@ Este repositorio contiene la resolución del **Trabajo Práctico N.° 1**, orien
 
 ## Organización del proyecto
 
-Cada unidad se encuentra en una carpeta independiente. Dentro de cada una, el archivo `index.html` carga los ejercicios ubicados en `src/P1` a `src/P10`.
+Las unidades del trabajo se encuentran agrupadas dentro de la carpeta `Tp_1`. Cada una contiene un archivo `index.html` que carga los ejercicios ubicados en `src/P1` a `src/P10`.
 
 ### Ejercicios sobre Objetos
 
-La carpeta [Objetos_1](Objetos_1/index.html) contiene ejercicios sobre:
+La carpeta [Objetos_1](Tp_1/Objetos_1/index.html) contiene ejercicios sobre:
 
 - Creación y anidación de objetos.
 - Métodos en objetos.
@@ -21,7 +21,7 @@ La carpeta [Objetos_1](Objetos_1/index.html) contiene ejercicios sobre:
 
 ### Ejercicios sobre Funciones
 
-La carpeta [Funciones_2](Funciones_2/index.html) contiene ejercicios sobre:
+La carpeta [Funciones_2](Tp_1/Funciones_2/index.html) contiene ejercicios sobre:
 
 - Funciones aritméticas.
 - Parámetros por defecto.
@@ -32,7 +32,7 @@ La carpeta [Funciones_2](Funciones_2/index.html) contiene ejercicios sobre:
 
 ### Ejercicios sobre Funciones (Consumo de Datos, Mapeo de Información, Autenticación de Usuarios)
 
-La carpeta [Funciones_3](Funciones_3/index.html) contiene ejercicios sobre:
+La carpeta [Funciones_3](Tp_1/Funciones_3/index.html) contiene ejercicios sobre:
 
 - Consumo de datos mediante `fetch`.
 - Procesamiento y transformación de usuarios.
@@ -44,7 +44,7 @@ La carpeta [Funciones_3](Funciones_3/index.html) contiene ejercicios sobre:
 
 ### Ejercicios sobre Operaciones con Arrays
 
-La carpeta [Arrays_4](Arrays_4/index.html) contiene ejercicios sobre:
+La carpeta [Arrays_4](Tp_1/Arrays_4/index.html) contiene ejercicios sobre:
 
 - Agregado y eliminación de elementos.
 - Arrays bidimensionales.
@@ -61,10 +61,10 @@ La carpeta [Arrays_4](Arrays_4/index.html) contiene ejercicios sobre:
 ## Cómo ejecutar los ejercicios
 
 1. Abrir cualquiera de los siguientes archivos en un navegador:
-	- `Objetos_1/index.html`
-	- `Funciones_2/index.html`
-	- `Funciones_3/index.html`
-	- `Arrays_4/index.html`
+	- `Tp_1/Objetos_1/index.html`
+	- `Tp_1/Funciones_2/index.html`
+	- `Tp_1/Funciones_3/index.html`
+	- `Tp_1/Arrays_4/index.html`
 2. Abrir las herramientas de desarrollo del navegador con `F12`.
 3. Seleccionar la pestaña **Consola** para visualizar los resultados de cada ejercicio.
 
